@@ -13,7 +13,7 @@ import mediapipe as mp
 import socket  # <--- Add this
 
 # --- ESP32 CONFIGURATION ---
-ESP_IP = "10.15.223.169"  # <--- REPLACE THIS with the IP address shown on your OLED/Serial Monitor
+ESP_IP = "XXXXXXXXXXX"  # <--- REPLACE THIS with the IP address shown on your OLED/Serial Monitor
 ESP_PORT = 4210          # Must match the port in the ESP32 code
 
 # Create the socket connection once
